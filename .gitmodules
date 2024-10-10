@@ -1,3 +1,6 @@
 [submodule "Client-Serving-Programming"]
 	path = Client-Serving-Programming
 	url = git@github.com:Eleee28/Client-Serving-Programming.git
+[submodule "Databases-2"]
+	path = Databases-2
+	url = git@github.com:Eleee28/Databases-2.git
