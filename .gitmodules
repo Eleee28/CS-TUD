@@ -7,3 +7,6 @@
 [submodule "Mobile-Software-Development"]
 	path = Mobile-Software-Development
 	url = git@github.com:Eleee28/Mobile-Software-Development.git
+[submodule "Web-Development-Deployment"]
+	path = Web-Development-Deployment
+	url = git@github.com:Eleee28/Web-Development-Deployment.git
