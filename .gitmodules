@@ -1,3 +1,6 @@
 [submodule "Client-Serving-Programming"]
 	path = Client-Serving-Programming
 	url = https://github.com/Eleee28/Client-Serving-Programming.git
+[submodule "Software-Engineering-2"]
+	path = Software-Engineering-2
+	url = https://github.com/Eleee28/Software-Engineering-2.git
